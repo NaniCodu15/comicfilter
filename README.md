@@ -6,7 +6,6 @@ Este proyecto aplica un efecto estilo **cómic/cartoon** a imágenes usando Open
 
 - Python 3.6 o superior
 - OpenCV
-- NumPy
 
 ### Instalación
 
